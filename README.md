@@ -1,8 +1,5 @@
 # PusulaTalentAcademy_FullStack_Assessment
 
-
-# PusulaTalentAcademy_FullStack_Assessment
-
 Bu repository, Pusula Talent Academy Full Stack programı için hazırlanan **assessment** projelerini içerir. Proje hem C# kod sorularını hem de test sorularını kapsamaktadır.
 
 ## İçerik
