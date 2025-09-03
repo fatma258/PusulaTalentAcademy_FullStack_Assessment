@@ -9,7 +9,7 @@ public static class Solution
      * 
      * 
      * Bir kelime listesi veriliyor. Her kelimenin ardışık sesli harflerinden oluşan en uzun alt diziyi bulun ve
-      JSON formatında kelime ile birlikte alt diziyi ve uzunluğunu döndürün. 
+      JSON formatında kelime ile birlikte alt diziyi ve uzunluğunu döndürün.
      * 
      * 
      * */
